@@ -1,4 +1,1 @@
-### Hi there 👋
----
-
-🌱 I’m currently learning React.js
+## Hallais 👋
