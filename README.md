@@ -1,3 +1,3 @@
 ## Hello! 👋
 
-🌱 Currently learning React.js
+🌱 Currently learning React and Node.js
