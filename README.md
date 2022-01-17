@@ -1,3 +1,5 @@
 ## Hello! 👋
 
-🌱 Currently learning React and Node.js
+👨🏻‍💻 Webdev @ [Naeva](https://naeva.no)
+
+🌱 Getting into Svelte
