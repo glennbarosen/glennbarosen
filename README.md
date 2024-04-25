@@ -1,5 +1,4 @@
-## Hello! 👋
+# Hello! 👋
+> 👨🏻‍💻 Web lead @ [Naeva](https://naeva.no)
 
-👨🏻‍💻 Webdev @ [Naeva](https://naeva.no)
-
-🌱 Getting into Svelte
+Developer based in Oslo.
